@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Javen's Blog
 permalink: /about/
 ---
 
